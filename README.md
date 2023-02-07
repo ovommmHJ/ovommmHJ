@@ -18,4 +18,4 @@
 ##### &#128151;FRAMEWORK
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovommmHJ&layout=compact"><br><br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovommmHJ&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovommmHJ&show_icons=true&theme=radical)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovommmHJ&layout=compact">   
